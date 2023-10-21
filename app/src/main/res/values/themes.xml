@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Komponenty" parent="Theme.Material3.DayNight.NoActionBar">
+       <item name="android:backgroundTint">@color/colorAccent</item>
+    </style>
+
+    <style name="Theme.Komponenty" parent="Base.Theme.Komponenty" />
+
+    <style name="BlueItalic">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+</resources>
